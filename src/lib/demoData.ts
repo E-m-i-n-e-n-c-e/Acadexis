@@ -86,8 +86,8 @@ const generateDemoCalendarEvents = (): CalendarEvent[] => [
   },
   {
     id: 'cal-3',
-    title: 'TechFest 2025',
-    date: '2025-02-10',
+    title: 'Zenith 2025',
+    date: '2025-12-18',
     type: 'event',
     description: 'Annual technical festival with competitions and workshops',
   },

@@ -97,7 +97,7 @@ const StudentDashboard: React.FC = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="text-sm text-muted-foreground">Next Event</p>
-                <p className="text-lg font-bold text-foreground mt-1 line-clamp-1">{nextEvent?.title || 'TechFest 2025'}</p>
+                <p className="text-lg font-bold text-foreground mt-1 line-clamp-1">{nextEvent?.title || 'Zenith 2025'}</p>
               </div>
               <div className="w-12 h-12 rounded-xl bg-accent/10 flex items-center justify-center group-hover:scale-110 transition-transform">
                 <PartyPopper className="h-6 w-6 text-accent" />
@@ -105,7 +105,7 @@ const StudentDashboard: React.FC = () => {
             </div>
             <div className="mt-3 flex items-center gap-2 text-sm text-muted-foreground">
               <Calendar className="h-4 w-4" />
-              <span>Feb 10, 2025</span>
+              <span>Dec 18-20, 2025</span>
             </div>
           </CardContent>
         </Card>

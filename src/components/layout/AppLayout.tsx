@@ -108,7 +108,7 @@ const AppLayout: React.FC = () => {
             <GraduationCap className="h-5 w-5 text-primary-foreground" />
           </div>
           {!sidebarCollapsed && (
-            <span className="font-bold text-lg text-sidebar-foreground">CampusHub</span>
+            <span className="font-bold text-lg text-sidebar-foreground">Acadexis</span>
           )}
         </div>
 
